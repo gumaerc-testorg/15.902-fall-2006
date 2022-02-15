@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-902-strategic-management-i-fall-2006/3829c664780eb957df7c85411aeec2c3_dyn_theo_strat.pdf
+file: /media/courses/15-902-strategic-management-i-fall-2006/3829c664780eb957df7c85411aeec2c3_dyn_theo_strat.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: dyn_theo_strat.pdf
 uid: 3829c664-780e-b957-df7c-85411aeec2c3
