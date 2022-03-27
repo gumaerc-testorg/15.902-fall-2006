@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6628e044-f916-9349-3bcf-923599d1da6d
 resourcetype: Document
 title: w_m_triangle.pdf
 uid: abad4b70-5d2c-449b-f5f2-9064e78b142e

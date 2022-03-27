@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6628e044-f916-9349-3bcf-923599d1da6d
 resourcetype: Document
 title: strforvalcreat1a.pdf
 uid: 83332b66-97fc-a3d8-733e-0541efcd045e

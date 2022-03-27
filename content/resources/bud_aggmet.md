@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6628e044-f916-9349-3bcf-923599d1da6d
 resourcetype: Document
 title: bud_aggmet.pdf
 uid: 92d72792-ae5e-336a-c5e6-f11a3af4a399
