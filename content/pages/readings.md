@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: The reading section includes required and recommended readings for this
+  course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 6f46f465-d9f8-9a1c-9765-208802e2da38
 ---
