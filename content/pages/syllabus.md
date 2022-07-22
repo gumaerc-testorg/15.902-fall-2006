@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section includes course description, teaching methodology,
+  and course requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e35e35b9-d7cb-cb42-80fe-fff1a8362c5e
 ---
@@ -29,7 +33,7 @@ Hax, Arnoldo C., and Nicolas S. Majluf. _The Strategy Concept and Process: A Pra
 
 ### Other Readings
 
-Each day's reading is listed in the [readings]({{< baseurl >}}/pages/readings) section.
+Each day's reading is listed in the {{% resource_link 6f46f465-d9f8-9a1c-9765-208802e2da38 "readings" %}} section.
 
 Requirements
 ------------
@@ -91,7 +95,7 @@ The paper should provide you with an opportunity to illustrate the application o
 
 ### Cases
 
-Three cases write-ups are required. In essence, your paper should demonstrate that you have carefully analyzed the case, and have a coherent view on how the company should proceed. Be clear and concise. Your writing style has an important impact on your ability to communicate your ideas. Case discussions should be about 3 pages, double-spaced, excluding exhibits. In guiding the case analyses you can follow the questions that are given for each case in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Three cases write-ups are required. In essence, your paper should demonstrate that you have carefully analyzed the case, and have a coherent view on how the company should proceed. Be clear and concise. Your writing style has an important impact on your ability to communicate your ideas. Case discussions should be about 3 pages, double-spaced, excluding exhibits. In guiding the case analyses you can follow the questions that are given for each case in the {{% resource_link 097a3c4f-c990-6c43-cd2f-6ff61b024c61 "assignments" %}} section.
 
 ### Class Participation
 
