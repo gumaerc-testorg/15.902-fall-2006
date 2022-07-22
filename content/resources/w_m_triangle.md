@@ -5,6 +5,7 @@ file: /courses/15-902-strategic-management-i-fall-2006/abad4b705d2c449bf5f29064e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: w_m_triangle.pdf
 uid: abad4b70-5d2c-449b-f5f2-9064e78b142e
 ---
 Lecture presentation diagram.
-

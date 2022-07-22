@@ -5,6 +5,7 @@ file: /courses/15-902-strategic-management-i-fall-2006/52f18d7061ec4d6de188b06e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

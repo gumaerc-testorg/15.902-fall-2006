@@ -5,6 +5,7 @@ file: /courses/15-902-strategic-management-i-fall-2006/1ccca21134960601204932d41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: deltamodel.pdf
 uid: 1ccca211-3496-0601-2049-32d418df01ef
 ---
 Lecture presentation.
-
