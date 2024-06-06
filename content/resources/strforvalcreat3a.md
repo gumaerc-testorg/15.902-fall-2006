@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation graphs.
 file: /courses/15-902-strategic-management-i-fall-2006/0aa6ca530adb61c0f8b6f3809d73f9bd_strforvalcreat3a.pdf
+file_size: 1197903
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-902-strategic-management-i-fall-2006/790788b80362ca5c630fca12534ab50d_06strpriorities.pdf
+file_size: 46042
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
