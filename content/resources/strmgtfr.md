@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/15-902-strategic-management-i-fall-2006/6bf7309f8d902ea908be1da6a4acc0c4_strmgtfr.pdf
+file_size: 1698468
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
