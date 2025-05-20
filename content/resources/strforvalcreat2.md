@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation graphs.
-file: /ol-ocw-studio-app/courses/15-902-strategic-management-i-fall-2006/f1e04c8243afd70665b240d8a2cb605f_strforvalcreat2.pdf
+file: /courses/15-902-strategic-management-i-fall-2006/f1e04c8243afd70665b240d8a2cb605f_strforvalcreat2.pdf
 file_size: 1228730
 file_type: application/pdf
 learning_resource_types:
