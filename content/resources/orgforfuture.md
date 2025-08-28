@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /courses/15-902-strategic-management-i-fall-2006/1ccdd8fdaae9c521f54f3b69d3c41fe3_orgforfuture.pdf
+file: /ol-ocw-studio-app/courses/15-902-strategic-management-i-fall-2006/1ccdd8fdaae9c521f54f3b69d3c41fe3_orgforfuture.pdf
 file_size: 1459380
 file_type: application/pdf
 learning_resource_types:
