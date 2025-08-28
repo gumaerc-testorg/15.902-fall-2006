@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /courses/15-902-strategic-management-i-fall-2006/237361b9155c9ae60b28d8e4a00560a3_granmetrics_exp.pdf
+file: /ol-ocw-studio-app/courses/15-902-strategic-management-i-fall-2006/237361b9155c9ae60b28d8e4a00560a3_granmetrics_exp.pdf
 file_size: 333534
 file_type: application/pdf
 learning_resource_types:
